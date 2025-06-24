@@ -1,0 +1,17 @@
+
+# Byte-compiled / Python cache
+__pycache__/
+*.py[cod]
+
+# Data, if you prefer to keep it private
+# data/football.csv
+
+# Figures (regenerateable)
+figures/
+
+# OS files
+.DS_Store
+
+# Virtual environments
+venv/
+.env
